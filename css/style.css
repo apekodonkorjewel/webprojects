@@ -6,6 +6,14 @@
     padding: 0;
 }
 
+.github, .github:visited{
+    color: yellow;
+}
+
+.github:hover {
+    color: skyblue;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
 }
